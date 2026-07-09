@@ -1,0 +1,301 @@
+Date,Product,Category,Sales,Quantity,Region,Store,Customer Segment
+2025-11-08,Coffee,Beverages,3746.58,10,West,Store B,Corporate
+2025-11-17,Bread,Bakery,700.28,2,West,Store B,Corporate
+2025-08-02,Coffee,Beverages,2728.79,6,East,Store C,Home Office
+2025-12-21,Coffee,Beverages,561.7,5,East,Store A,Corporate
+2025-06-19,Tea,Beverages,3682.31,9,South,Store D,Home Office
+2025-04-22,Mouse,Electronics,200.49,1,North,Store C,Corporate
+2025-04-21,Shampoo,Personal Care,1760.98,6,West,Store B,Corporate
+2025-08-04,Cake,Bakery,1165.84,8,Central,Store C,Corporate
+2025-05-28,Bread,Bakery,44.93,2,East,Store B,Home Office
+2025-06-19,Soap,Personal Care,189.76,2,North,Store C,Home Office
+2025-11-03,Tea,Beverages,281.08,5,East,Store A,Corporate
+2025-07-07,Mouse,Electronics,571.44,8,South,Store B,Corporate
+2025-09-15,Tea,Beverages,2044.89,6,West,Store A,Corporate
+2025-05-30,Milk,Dairy,1755.1,4,South,Store A,Home Office
+2025-08-10,Soap,Personal Care,679.51,5,Central,Store D,Corporate
+2025-01-04,Mouse,Electronics,52.97,4,West,Store D,Corporate
+2025-10-14,Soap,Personal Care,580.91,9,East,Store A,Consumer
+2025-01-01,Coffee,Beverages,1439.34,10,North,Store B,Corporate
+2025-03-14,Coffee,Beverages,3037.05,9,Central,Store A,Consumer
+2025-11-07,Tea,Beverages,4648.24,10,West,Store C,Consumer
+2025-04-10,Tea,Beverages,346.83,6,West,Store C,Home Office
+2025-11-29,Shampoo,Personal Care,266.72,2,West,Store A,Home Office
+2025-08-19,Rice,Grocery,1615.98,9,North,Store A,Corporate
+2025-11-02,Laptop,Electronics,419.65,4,East,Store D,Consumer
+2025-03-01,Coffee,Beverages,813.77,6,West,Store D,Corporate
+2025-09-07,Bread,Bakery,131.43,4,North,Store C,Corporate
+2025-04-06,Soap,Personal Care,4448.43,9,East,Store C,Home Office
+2025-01-07,Shampoo,Personal Care,181.25,8,North,Store B,Home Office
+2025-12-10,Laptop,Electronics,957.75,2,East,Store A,Consumer
+2025-12-03,Cake,Bakery,428.82,1,South,Store B,Consumer
+2025-10-27,Laptop,Electronics,1448,9,East,Store D,Consumer
+2025-07-27,Rice,Grocery,736.14,7,East,Store D,Corporate
+2025-09-10,Soap,Personal Care,802.65,8,North,Store B,Home Office
+2025-05-04,Mouse,Electronics,4372.84,9,Central,Store A,Corporate
+2025-11-14,Shampoo,Personal Care,945.79,2,North,Store A,Corporate
+2025-02-09,Coffee,Beverages,1301.85,8,East,Store B,Corporate
+2025-09-01,Tea,Beverages,1917.74,7,North,Store B,Home Office
+2025-07-01,Coffee,Beverages,762.63,7,Central,Store D,Consumer
+2025-01-19,Rice,Grocery,1440.54,8,West,Store D,Home Office
+2025-05-23,Rice,Grocery,819.08,2,Central,Store C,Home Office
+2025-08-18,Bread,Bakery,539.23,8,South,Store C,Corporate
+2025-04-08,Cake,Bakery,2944.37,6,West,Store D,Corporate
+2025-01-18,Mouse,Electronics,1502.69,7,East,Store B,Corporate
+2025-02-25,Mouse,Electronics,2173.52,5,East,Store C,Home Office
+2025-08-01,Laptop,Electronics,368.97,1,West,Store D,Consumer
+2025-02-25,Coffee,Beverages,2138.65,5,West,Store B,Corporate
+2025-12-20,Mouse,Electronics,232.66,2,North,Store A,Corporate
+2025-01-15,Coffee,Beverages,1177.56,3,Central,Store D,Corporate
+2025-01-01,Mouse,Electronics,1949.99,4,Central,Store A,Corporate
+2025-01-29,Shampoo,Personal Care,246.4,8,South,Store B,Consumer
+2025-05-03,Bread,Bakery,95.09,5,Central,Store C,Consumer
+2025-04-23,Tea,Beverages,73.38,2,Central,Store C,Corporate
+2025-06-21,Laptop,Electronics,31.29,1,Central,Store A,Consumer
+2025-07-21,Cake,Bakery,313.44,2,West,Store D,Home Office
+2025-08-30,Rice,Grocery,4333.22,10,South,Store A,Home Office
+2025-08-21,Mouse,Electronics,474.18,2,West,Store A,Home Office
+2025-04-27,Tea,Beverages,2045.43,8,Central,Store A,Home Office
+2025-03-05,Soap,Personal Care,1318.43,6,South,Store B,Consumer
+2025-10-14,Laptop,Electronics,1179.14,3,West,Store D,Corporate
+2025-07-11,Bread,Bakery,737.04,7,East,Store C,Corporate
+2025-05-30,Rice,Grocery,440.86,1,North,Store A,Consumer
+2025-02-09,Cake,Bakery,479.82,5,East,Store C,Corporate
+2025-04-20,Tea,Beverages,1748.52,4,East,Store A,Home Office
+2025-07-19,Laptop,Electronics,1339.67,3,East,Store D,Consumer
+2025-12-11,Rice,Grocery,3885.91,10,South,Store D,Home Office
+2025-11-03,Laptop,Electronics,40.97,3,West,Store B,Consumer
+2025-01-19,Bread,Bakery,1465.54,8,West,Store B,Home Office
+2025-11-17,Shampoo,Personal Care,4696.36,10,North,Store A,Home Office
+2025-06-24,Coffee,Beverages,2130.44,7,West,Store D,Consumer
+2025-08-28,Soap,Personal Care,4104.67,9,East,Store B,Home Office
+2025-10-05,Coffee,Beverages,393.08,1,North,Store C,Consumer
+2025-09-02,Tea,Beverages,35.81,4,East,Store A,Corporate
+2025-06-02,Coffee,Beverages,246.11,7,East,Store A,Home Office
+2025-03-01,Shampoo,Personal Care,426.01,2,Central,Store D,Consumer
+2025-07-14,Laptop,Electronics,2154.39,5,South,Store B,Corporate
+2025-05-21,Shampoo,Personal Care,95.56,1,East,Store C,Home Office
+2025-12-06,Soap,Personal Care,579.43,2,East,Store B,Consumer
+2025-07-16,Bread,Bakery,758.88,5,South,Store B,Consumer
+2025-04-19,Rice,Grocery,144.3,7,West,Store D,Consumer
+2025-07-30,Mouse,Electronics,3363.52,7,Central,Store C,Home Office
+2025-05-25,Tea,Beverages,732.13,3,East,Store A,Consumer
+2025-02-16,Bread,Bakery,1066.28,5,East,Store D,Corporate
+2025-10-25,Tea,Beverages,2686.2,7,Central,Store D,Home Office
+2025-02-26,Soap,Personal Care,2810.16,8,Central,Store B,Corporate
+2025-04-03,Laptop,Electronics,1761.64,7,South,Store C,Home Office
+2025-04-03,Shampoo,Personal Care,1702.95,4,East,Store A,Consumer
+2025-09-20,Milk,Dairy,2747.56,8,Central,Store B,Home Office
+2025-09-21,Bread,Bakery,1048.68,7,Central,Store B,Home Office
+2025-03-26,Mouse,Electronics,633.4,7,North,Store B,Consumer
+2025-12-26,Rice,Grocery,3164.14,9,West,Store C,Corporate
+2025-02-02,Cake,Bakery,666.95,2,South,Store D,Home Office
+2025-10-05,Milk,Dairy,2123.46,5,South,Store D,Corporate
+2025-03-19,Cake,Bakery,2641.91,7,Central,Store D,Home Office
+2025-03-05,Laptop,Electronics,145.47,3,East,Store D,Home Office
+2025-08-23,Milk,Dairy,459.48,2,West,Store D,Corporate
+2025-12-14,Laptop,Electronics,4662.57,10,West,Store D,Home Office
+2025-02-22,Shampoo,Personal Care,403.23,4,Central,Store C,Home Office
+2025-03-03,Soap,Personal Care,529.14,9,West,Store C,Corporate
+2025-04-11,Rice,Grocery,204.74,6,East,Store C,Corporate
+2025-08-28,Mouse,Electronics,1179.75,3,West,Store B,Corporate
+2025-10-10,Laptop,Electronics,268.71,1,South,Store D,Home Office
+2025-09-06,Tea,Beverages,30.54,3,South,Store B,Consumer
+2025-08-10,Coffee,Beverages,222.15,1,South,Store C,Consumer
+2025-07-31,Laptop,Electronics,500.26,9,West,Store C,Corporate
+2025-10-31,Tea,Beverages,330.7,1,Central,Store C,Corporate
+2025-06-20,Rice,Grocery,4566.37,10,East,Store A,Corporate
+2025-07-12,Cake,Bakery,329.76,3,North,Store D,Home Office
+2025-06-25,Tea,Beverages,813.55,8,West,Store A,Consumer
+2025-07-14,Laptop,Electronics,4036.7,10,North,Store B,Corporate
+2025-12-07,Tea,Beverages,2310.96,7,Central,Store A,Corporate
+2025-03-23,Mouse,Electronics,825.42,2,Central,Store A,Home Office
+2025-02-01,Laptop,Electronics,561.34,8,West,Store B,Corporate
+2025-02-05,Coffee,Beverages,575.63,2,North,Store A,Consumer
+2025-10-31,Laptop,Electronics,46.43,2,South,Store D,Home Office
+2025-01-29,Tea,Beverages,386.42,1,East,Store C,Consumer
+2025-05-15,Shampoo,Personal Care,1313.07,6,West,Store D,Consumer
+2025-12-12,Rice,Grocery,2628.12,8,Central,Store D,Home Office
+2025-05-22,Bread,Bakery,1060.46,4,West,Store C,Corporate
+2025-04-01,Cake,Bakery,1737.55,10,North,Store D,Corporate
+2025-07-28,Rice,Grocery,291.52,5,Central,Store B,Consumer
+2025-05-22,Mouse,Electronics,331.67,1,North,Store C,Home Office
+2025-07-20,Soap,Personal Care,2859.74,8,East,Store A,Consumer
+2025-08-11,Milk,Dairy,1367.43,4,Central,Store D,Home Office
+2025-09-12,Milk,Dairy,759.02,5,East,Store B,Corporate
+2025-09-20,Tea,Beverages,4463.61,10,North,Store D,Corporate
+2025-11-15,Laptop,Electronics,1842.12,7,East,Store A,Consumer
+2025-02-11,Milk,Dairy,430.75,3,Central,Store D,Corporate
+2025-03-01,Coffee,Beverages,676,2,South,Store A,Home Office
+2025-04-05,Mouse,Electronics,3470.22,10,East,Store D,Corporate
+2025-05-25,Bread,Bakery,3153.52,7,North,Store C,Corporate
+2025-01-04,Soap,Personal Care,932.61,5,West,Store C,Home Office
+2025-02-07,Laptop,Electronics,1371.87,7,West,Store C,Home Office
+2025-05-05,Soap,Personal Care,231.99,1,North,Store B,Consumer
+2025-11-25,Laptop,Electronics,711.62,3,Central,Store C,Corporate
+2025-04-08,Bread,Bakery,3648.77,10,West,Store D,Corporate
+2025-09-01,Cake,Bakery,599.26,2,Central,Store D,Consumer
+2025-01-01,Rice,Grocery,359.58,6,South,Store D,Consumer
+2025-06-28,Rice,Grocery,1314.42,7,North,Store C,Consumer
+2025-12-28,Rice,Grocery,193.98,1,West,Store C,Home Office
+2025-08-06,Laptop,Electronics,1453.69,3,West,Store D,Corporate
+2025-02-13,Laptop,Electronics,1491.35,8,East,Store D,Corporate
+2025-09-24,Bread,Bakery,401.71,2,Central,Store B,Consumer
+2025-08-12,Rice,Grocery,3093.11,10,Central,Store A,Consumer
+2025-12-30,Bread,Bakery,372.91,1,West,Store B,Consumer
+2025-12-05,Soap,Personal Care,82.51,1,South,Store D,Consumer
+2025-12-11,Tea,Beverages,273.69,4,South,Store D,Corporate
+2025-12-16,Tea,Beverages,843.18,2,North,Store D,Corporate
+2025-10-10,Coffee,Beverages,381.52,2,North,Store D,Corporate
+2025-03-13,Shampoo,Personal Care,936.53,8,Central,Store D,Consumer
+2025-05-04,Tea,Beverages,2500.05,8,South,Store B,Consumer
+2025-09-11,Laptop,Electronics,116.92,2,East,Store C,Consumer
+2025-04-04,Soap,Personal Care,1085.07,3,Central,Store C,Home Office
+2025-03-22,Cake,Bakery,115.51,2,West,Store D,Corporate
+2025-05-25,Laptop,Electronics,531.56,2,West,Store C,Home Office
+2025-01-04,Bread,Bakery,3162.73,7,Central,Store C,Home Office
+2025-12-07,Tea,Beverages,780.5,3,West,Store A,Consumer
+2025-05-04,Shampoo,Personal Care,777.88,8,North,Store A,Corporate
+2025-12-01,Shampoo,Personal Care,3399.53,9,West,Store A,Home Office
+2025-01-01,Laptop,Electronics,1141.18,3,North,Store D,Consumer
+2025-01-23,Laptop,Electronics,2330.83,7,North,Store C,Home Office
+2025-11-09,Mouse,Electronics,1414.12,9,Central,Store A,Corporate
+2025-02-20,Laptop,Electronics,3985.81,8,North,Store D,Home Office
+2025-04-06,Rice,Grocery,20.79,2,Central,Store D,Consumer
+2025-05-30,Tea,Beverages,834.73,7,South,Store A,Consumer
+2025-03-23,Tea,Beverages,2843.58,7,South,Store C,Home Office
+2025-12-10,Shampoo,Personal Care,573.64,2,South,Store C,Corporate
+2025-05-28,Bread,Bakery,398.16,3,North,Store A,Home Office
+2025-06-05,Tea,Beverages,412.63,2,Central,Store B,Consumer
+2025-07-16,Shampoo,Personal Care,508.86,3,West,Store C,Corporate
+2025-12-19,Soap,Personal Care,2250.97,9,Central,Store A,Corporate
+2025-12-17,Laptop,Electronics,640.2,9,North,Store C,Home Office
+2025-04-23,Tea,Beverages,1456.87,8,Central,Store D,Consumer
+2025-08-25,Mouse,Electronics,348.19,1,North,Store D,Consumer
+2025-01-28,Soap,Personal Care,172.59,2,Central,Store B,Consumer
+2025-06-21,Soap,Personal Care,683.56,3,South,Store B,Corporate
+2025-03-13,Coffee,Beverages,1646.47,10,South,Store C,Consumer
+2025-02-28,Laptop,Electronics,2017.6,8,Central,Store D,Consumer
+2025-01-04,Cake,Bakery,382.84,2,West,Store D,Consumer
+2025-06-27,Tea,Beverages,1909.87,10,Central,Store B,Home Office
+2025-12-21,Rice,Grocery,2657.15,6,West,Store B,Corporate
+2025-04-21,Soap,Personal Care,2252.99,5,East,Store D,Corporate
+2025-03-04,Mouse,Electronics,2030.51,8,West,Store A,Consumer
+2025-05-06,Bread,Bakery,1007.7,7,South,Store C,Consumer
+2025-04-22,Tea,Beverages,179.23,1,North,Store B,Home Office
+2025-07-17,Bread,Bakery,558.59,2,Central,Store A,Home Office
+2025-01-01,Coffee,Beverages,3508.36,10,South,Store A,Home Office
+2025-06-12,Milk,Dairy,4089.7,9,West,Store B,Consumer
+2025-09-15,Milk,Dairy,441.99,5,East,Store A,Home Office
+2025-09-14,Milk,Dairy,1386.18,5,South,Store A,Consumer
+2025-06-07,Coffee,Beverages,1669.54,7,North,Store A,Corporate
+2025-04-10,Milk,Dairy,471.79,3,East,Store A,Home Office
+2025-06-09,Mouse,Electronics,4127.12,10,North,Store B,Corporate
+2025-05-02,Bread,Bakery,238.84,1,Central,Store C,Home Office
+2025-01-27,Laptop,Electronics,676.03,6,North,Store A,Corporate
+2025-03-13,Rice,Grocery,298.25,4,South,Store C,Corporate
+2025-07-08,Tea,Beverages,852.62,5,West,Store A,Consumer
+2025-11-08,Tea,Beverages,1159.88,4,East,Store A,Corporate
+2025-02-15,Soap,Personal Care,1065.7,6,Central,Store A,Corporate
+2025-03-17,Rice,Grocery,8.02,1,South,Store A,Consumer
+2025-09-13,Mouse,Electronics,2265.74,6,West,Store B,Home Office
+2025-09-15,Milk,Dairy,658.63,2,West,Store C,Home Office
+2025-06-17,Coffee,Beverages,947.55,5,North,Store C,Consumer
+2025-09-14,Milk,Dairy,4756.77,10,East,Store C,Consumer
+2025-09-09,Mouse,Electronics,1064.26,6,Central,Store A,Corporate
+2025-01-13,Tea,Beverages,3578.38,10,West,Store A,Corporate
+2025-12-01,Soap,Personal Care,2331.96,6,North,Store D,Corporate
+2025-05-04,Shampoo,Personal Care,1343.46,3,North,Store D,Consumer
+2025-03-03,Tea,Beverages,228.63,3,North,Store B,Home Office
+2025-09-05,Cake,Bakery,949.66,2,Central,Store A,Corporate
+2025-02-21,Milk,Dairy,450.1,8,East,Store B,Home Office
+2025-07-15,Milk,Dairy,697.73,3,North,Store C,Consumer
+2025-02-13,Mouse,Electronics,1478,3,North,Store D,Consumer
+2025-03-29,Milk,Dairy,1670.86,6,South,Store D,Corporate
+2025-06-18,Bread,Bakery,1275.98,10,South,Store C,Corporate
+2025-12-13,Rice,Grocery,230.87,2,West,Store B,Home Office
+2025-03-07,Tea,Beverages,264.59,1,West,Store B,Consumer
+2025-01-27,Bread,Bakery,2203.64,5,North,Store C,Home Office
+2025-06-03,Soap,Personal Care,2087.56,10,West,Store A,Corporate
+2025-03-02,Tea,Beverages,2110.97,9,Central,Store A,Consumer
+2025-01-12,Coffee,Beverages,916.33,9,North,Store A,Home Office
+2025-08-17,Cake,Bakery,180.08,1,West,Store D,Corporate
+2025-02-18,Mouse,Electronics,290.06,1,Central,Store B,Consumer
+2025-05-22,Shampoo,Personal Care,1744.29,5,North,Store C,Consumer
+2025-07-15,Cake,Bakery,649.18,2,West,Store D,Home Office
+2025-09-11,Soap,Personal Care,2060.46,9,West,Store A,Corporate
+2025-03-30,Rice,Grocery,1782.13,4,North,Store C,Corporate
+2025-07-30,Rice,Grocery,843.07,5,West,Store C,Consumer
+2025-02-02,Laptop,Electronics,3754.91,10,North,Store B,Home Office
+2025-04-21,Shampoo,Personal Care,3062.04,8,East,Store C,Consumer
+2025-06-22,Tea,Beverages,1618.08,7,North,Store B,Home Office
+2025-08-21,Soap,Personal Care,457.72,1,West,Store A,Corporate
+2025-12-11,Soap,Personal Care,1257.14,9,Central,Store B,Home Office
+2025-01-23,Bread,Bakery,544.24,4,East,Store B,Home Office
+2025-02-21,Mouse,Electronics,697.88,4,North,Store D,Corporate
+2025-02-18,Milk,Dairy,1401.89,3,South,Store B,Home Office
+2025-04-05,Coffee,Beverages,531.65,2,West,Store D,Home Office
+2025-01-28,Shampoo,Personal Care,3072.2,8,South,Store A,Home Office
+2025-12-13,Milk,Dairy,810.11,2,South,Store A,Corporate
+2025-07-17,Milk,Dairy,727.27,2,Central,Store B,Consumer
+2025-03-10,Rice,Grocery,25.58,4,Central,Store C,Consumer
+2025-12-12,Rice,Grocery,539.02,3,East,Store A,Home Office
+2025-06-09,Milk,Dairy,209.76,1,South,Store C,Corporate
+2025-09-04,Cake,Bakery,1586.39,6,West,Store D,Corporate
+2025-01-15,Shampoo,Personal Care,4721.33,10,Central,Store D,Corporate
+2025-02-08,Bread,Bakery,3357.74,7,North,Store D,Corporate
+2025-04-09,Milk,Dairy,2185.94,5,East,Store C,Corporate
+2025-10-19,Tea,Beverages,2236.17,6,North,Store D,Corporate
+2025-07-25,Mouse,Electronics,1187,6,North,Store B,Home Office
+2025-02-12,Soap,Personal Care,565.57,3,East,Store D,Corporate
+2025-09-03,Bread,Bakery,1419.29,8,East,Store A,Corporate
+2025-07-06,Coffee,Beverages,619.96,2,East,Store B,Consumer
+2025-08-19,Bread,Bakery,184.43,7,Central,Store D,Consumer
+2025-01-25,Coffee,Beverages,2205.64,8,East,Store C,Home Office
+2025-11-30,Tea,Beverages,123.08,1,North,Store A,Home Office
+2025-06-19,Mouse,Electronics,2416.96,7,South,Store D,Corporate
+2025-03-07,Mouse,Electronics,373.22,2,Central,Store D,Home Office
+2025-10-18,Bread,Bakery,580.56,3,East,Store D,Corporate
+2025-09-20,Mouse,Electronics,1341.45,7,North,Store B,Corporate
+2025-01-14,Tea,Beverages,481.44,4,South,Store D,Home Office
+2025-05-25,Laptop,Electronics,562.01,3,Central,Store D,Home Office
+2025-12-02,Cake,Bakery,1932.29,7,West,Store B,Consumer
+2025-09-16,Tea,Beverages,4557.6,10,South,Store D,Home Office
+2025-09-01,Laptop,Electronics,4408.36,9,South,Store B,Home Office
+2025-01-09,Mouse,Electronics,941.07,3,East,Store C,Home Office
+2025-07-27,Coffee,Beverages,267.6,1,South,Store A,Home Office
+2025-09-26,Tea,Beverages,4180.03,9,North,Store A,Corporate
+2025-04-13,Shampoo,Personal Care,3053.13,8,North,Store D,Corporate
+2025-01-30,Milk,Dairy,2953.09,8,West,Store A,Corporate
+2025-02-10,Milk,Dairy,1343.63,8,Central,Store C,Consumer
+2025-04-17,Mouse,Electronics,4779.57,10,South,Store C,Consumer
+2025-11-28,Mouse,Electronics,1331.53,6,East,Store B,Corporate
+2025-09-16,Coffee,Beverages,279.81,7,South,Store A,Consumer
+2025-08-23,Coffee,Beverages,407.8,5,Central,Store D,Corporate
+2025-06-13,Tea,Beverages,2138.16,8,West,Store C,Home Office
+2025-11-26,Soap,Personal Care,2885.44,8,West,Store B,Corporate
+2025-03-20,Milk,Dairy,82.5,1,West,Store D,Home Office
+2025-02-15,Laptop,Electronics,1718.4,6,South,Store C,Consumer
+2025-09-09,Laptop,Electronics,3619.73,10,East,Store D,Consumer
+2025-06-29,Shampoo,Personal Care,517.42,7,North,Store A,Consumer
+2025-05-10,Rice,Grocery,1344.54,7,East,Store D,Corporate
+2025-12-05,Coffee,Beverages,1767.77,7,West,Store A,Corporate
+2025-01-17,Soap,Personal Care,385.1,4,South,Store D,Consumer
+2025-04-19,Milk,Dairy,2295.95,7,North,Store D,Home Office
+2025-09-30,Shampoo,Personal Care,433.51,4,West,Store D,Home Office
+2025-10-21,Bread,Bakery,3106.11,10,East,Store B,Corporate
+2025-12-16,Milk,Dairy,2453.92,5,South,Store A,Home Office
+2025-10-13,Milk,Dairy,107.58,6,West,Store D,Home Office
+2025-07-15,Mouse,Electronics,1728.95,5,Central,Store B,Consumer
+2025-01-10,Milk,Dairy,1542.48,10,East,Store C,Consumer
+2025-08-19,Shampoo,Personal Care,4548.38,10,North,Store B,Consumer
+2025-07-24,Laptop,Electronics,1117.6,8,West,Store B,Consumer
+2025-11-12,Mouse,Electronics,1363.51,6,North,Store D,Corporate
+2025-02-22,Bread,Bakery,2901.47,7,East,Store A,Corporate
+2025-04-16,Bread,Bakery,2254.12,6,South,Store A,Corporate
+2025-03-15,Rice,Grocery,1361.8,4,East,Store B,Home Office
+2025-08-09,Tea,Beverages,2742.07,6,North,Store B,Corporate
+2025-03-25,Cake,Bakery,269.96,1,South,Store D,Consumer
+2025-06-10,Cake,Bakery,4081.38,10,Central,Store D,Consumer
+2025-01-15,Rice,Grocery,2359.15,6,North,Store C,Corporate
+2025-11-04,Mouse,Electronics,738.67,5,West,Store C,Corporate
